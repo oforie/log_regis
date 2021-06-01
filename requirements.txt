@@ -14,4 +14,4 @@ requests==2.18.1
 six==1.10.0
 svgwrite==1.1.11
 Tree==0.1b8
-urllib3==1.21.1
+urllib3==1.26.5
